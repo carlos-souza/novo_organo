@@ -13,7 +13,7 @@ export const Time = (props) => {
                         colaborador => <Colaborador 
                             corDeFundo={props.corPrimaria}
                             key={props.name || '/' || colaborador.nome}
-                            name={colaborador.nome}
+                            nome={colaborador.nome}
                             cargo={colaborador.cargo}
                             imagem={colaborador.imagem} />
                     )}
