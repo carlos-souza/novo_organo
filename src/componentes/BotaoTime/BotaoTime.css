@@ -1,0 +1,17 @@
+.botaoTime {
+    background: #6278F7;
+    border-radius: 10px;
+    font-weight: 700;
+    font-size: 18px;
+    padding: 32px;
+    color: #FFF;
+    cursor: pointer;
+    font-weight: bold;
+    border: none;
+    position: relative;
+    left: 20px;
+}
+
+.botaoTime:hover {
+    color: #95FFD4;
+}
